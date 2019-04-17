@@ -6,7 +6,7 @@ Github Repo for BT4222 Group Project - Cheong Yi Wei, Chua Wei Han, Ng Gin Wen, 
 # Description
 ### Data Sources
 - The news data and market data came from the [Two Sigma Kaggle Competition](https://www.kaggle.com/c/two-sigma-financial-news).
-- Webscraping is done across multiple website which includes [Thomson Reuters](https://www.reuters.com/), [Yahoo Finance](https://sg.finance.yahoo.com/), [U.S. Securities and Exchange Commission (SEC)](https://www.sec.gov/edgar/searchedgar/companysearch.html) and [Finviz](https://finviz.com/) as in ```Web-Scraping.ipynb```.
+- Webscraping is done across multiple website which includes [Thomson Reuters](https://www.reuters.com/), [Yahoo Finance](https://sg.finance.yahoo.com/), [U.S. Securities and Exchange Commission (SEC)](https://www.sec.gov/edgar/searchedgar/companysearch.html) and [FINVIZ](https://finviz.com/) as in ```Web-Scraping.ipynb```.
 - The industry data that were obtained from web scraping and cleaning can be found [here](https://drive.google.com/open?id=1IxKUUlggh1aX-maK3kyqYL3_9kxTrGif).
 ### Data Preprocessing
 - Clusters and standardised features were produced as in ```Generate-Standardised-Features.ipynb```.
