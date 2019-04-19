@@ -13,3 +13,5 @@ Github Repo for BT4222 Group Project - Cheong Yi Wei, Chua Wei Han, Ng Gin Wen, 
 - Word vectors were produced as in ```DNN_(2_April_Running_Version).ipynb```.
 ### Model
 - For ensemble model predictions, run ```Ensemble_Model.ipynb```.
+### Google Drive Link
+- Please go to [this link](https://drive.google.com/open?id=1RiAYz5LsL9r6JCT5NiqcP3rkXilIznvp) to access the data and raw notebooks
