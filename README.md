@@ -2,6 +2,7 @@
 Github Repo for BT4222 Group Project - Cheong Yi Wei, Chua Wei Han, Ng Gin Wen, Yang Xiya
 
 # Pre-Requisites
+Python 3 is used for this project. Most of the libraries used are installed in colab. Please refer to requirements.txt for details. Furthermore, the default pandas library on colab is outdated. Please upgrade it before using pickle to load the data files found in the link below.
 
 # Description
 ### Data Sources
